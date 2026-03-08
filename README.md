@@ -10,6 +10,7 @@ This repository contains the language files used for the **1of1 Servers Web Queu
    - `es.ts` for Spanish
    - `fr.ts` for French
    - `de.ts` for German
+   - `no.ts` for Norwegian
 3. Translate the values while **keeping the keys exactly the same**.
 4. Submit a **Pull Request** with the new language file.
 
@@ -23,6 +24,7 @@ This repository contains the language files used for the **1of1 Servers Web Queu
 
 - English (`eng.ts`)
 - Spanish (`es.ts`)
+- Norwegian (`no.ts`)
 
 ## Contributing
 
